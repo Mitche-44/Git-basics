@@ -1,4 +1,4 @@
-This is a simple repository for learning about Git and Git hub.
+This is a simple repository for learning about Git and Git Hub.
 Some of the commands used are:
 . git add
 . git commit -m "message"
